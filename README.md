@@ -1,5 +1,4 @@
-# 🚀 Mythos Engine - Production Ready
-
+# 🚀 Mythos Engine 
 **Transform simple mythological scene descriptions into stunning comic book panels using AI**
 
 The Mythos Engine is a production-ready application that combines advanced AI with Indian mythology to create authentic, culturally-sensitive comic panels. Built with Next.js, TypeScript, and OpenAI's latest models.
@@ -69,18 +68,6 @@ pnpm build
 pnpm start
 ```
 
-## 🔧 Configuration
-
-### Environment Variables
-
-| Variable | Description | Default | Required |
-|----------|-------------|---------|----------|
-| `OPENAI_API_KEY` | OpenAI API key | - | ✅ |
-| `OPENAI_MODEL` | AI model to use | `gpt-4-turbo-preview` | ❌ |
-| `CONTENT_SAFETY_ENABLED` | Enable content filtering | `true` | ❌ |
-| `QUALITY_VALIDATION_ENABLED` | Enable quality checks | `true` | ❌ |
-| `RATE_LIMIT_REQUESTS_PER_MINUTE` | API rate limit | `10` | ❌ |
-| `NODE_ENV` | Environment mode | `development` | ❌ |
 
 ### Advanced Configuration
 
@@ -285,10 +272,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Documentation**: [Wiki](https://github.com/your-repo/wiki)
+- **Issues**: [GitHub Issues](https://github.com/antima121-bit/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/antima121-bitdiscussions)
+- **Documentation**: [Wiki](https://github.com/antima121-bit/wiki)
 
 ---
 
 **Made with ❤️ for Indian mythology and AI innovation**
+
